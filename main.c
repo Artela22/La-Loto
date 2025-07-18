@@ -17,7 +17,7 @@
  * 
  * Autor: Diogo Pinzon - 8-1035-2187, Joseph Ibarguen 8-1040-1107 y Valentín Sáez 3-757-2165
  * Fecha: 07/18/2025
- * Versión: 1.0
+ * Versión: 11.9
  * Plataforma: Windows (usa librerías específicas de Windows)
  * ============================================================================
  */
